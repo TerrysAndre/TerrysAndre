@@ -1,129 +1,118 @@
 <div align="center">
 
-# 👋 Olá, eu sou André Araújo
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f6e56,100:1d9e75&height=180&section=header&text=André%20Araújo&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20in%20the%20making&descAlignY=58&descColor=9fe1cb" />
 
-### 💻 Desenvolvedor Full Stack em formação
+</div>
 
-Construindo aplicações web modernas com JavaScript, Node.js, Express e Java.
+<div align="center">
 
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,express,java,spring,mysql,git,github,vscode,idea" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1D9E75&center=true&vCenter=true&width=500&lines=Construindo+APIs+REST+robustas;Desenvolvendo+sistemas+web+modernos;Apaixonado+por+Java+%26+Node.js;Buscando+minha+primeira+oportunidade+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## 👨‍💻 Sobre mim
 
-Sou estudante de desenvolvimento de software com foco em aplicações Full Stack.
+```javascript
+const andre = {
+  role:     "Full Stack Developer (em formação)",
+  stack:    ["JavaScript", "Node.js", "Express", "Java", "Spring Boot"],
+  database: ["MySQL", "Firebase"],
+  tools:    ["Git", "GitHub", "VS Code", "IntelliJ IDEA"],
+  goal:     "Vaga como Dev Full Stack Jr ou Estágio em TI",
+  email:    "terrysandref@gmail.com"
+};
+```
 
-Tenho experiência com desenvolvimento de APIs REST, sistemas web, integração com bancos de dados e deploy de aplicações.
-
-Atualmente estudo:
-
-- JavaScript
-- Node.js
-- Express
-- Java
-- Spring Boot
-- MySQL
-- Git e GitHub
+Sou estudante de desenvolvimento de software focado em construir aplicações **Full Stack** do zero — da interface ao banco de dados. Tenho experiência prática com **APIs REST**, integração com banco de dados e deploy de aplicações em produção.
 
 ---
 
 ## 🛠️ Tecnologias
 
-<table>
-<tr>
-<td>
+<div align="center">
 
 ### Frontend
-
-- HTML5
-- CSS3
-- JavaScript
-
-</td>
-
-<td>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-- Node.js
-- Express
-- Java
-- Spring Boot
+### Banco de Dados & Ferramentas
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</td>
-
-<td>
-
-### Banco de Dados
-
-- MySQL
-- SQL
-- FireBase
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 📌 Projetos
+## 🚀 Projetos em Produção
 
-### 🗳️ Votes
+<div align="center">
 
-Sistema de votação online desenvolvido para registrar e contabilizar votos em tempo real.
+| Projeto | Descrição | Stack | Link |
+|--------|-----------|-------|------|
+| 🗳️ **Votes** | Sistema de votação online com contagem em tempo real | Node.js · Express · MySQL | [▶ Acessar](https://lucas-votes2026.onrender.com) |
+| 🍽️ **QuickMeal** | App de planejamento de refeições | Java · Spring Boot | [▶ Acessar](https://quickmeal-java-production.up.railway.app) |
 
-🔗 https://lucas-votes2026.onrender.com
-
----
-
-### 🍽️ QuickMeal
-
-Aplicação desenvolvida em Java para auxiliar no planejamento de refeições.
-
-🔗 https://quickmeal-java-production.up.railway.app
+</div>
 
 ---
 
-## 📚 Atualmente Estudando
+## 📈 GitHub Stats
 
-```js
-const learning = [
-  "Node.js",
-  "Express",
-  "Spring Boot",
-  "APIs REST",
-  "Arquitetura de Software",
-  "Boas Práticas de Desenvolvimento"
-];
-```
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=terrysdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrysdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9" />
+
+</div>
 
 ---
 
-## 🎯 Objetivo
+## 📚 Atualmente estudando
 
-Busco oportunidades como:
+- 🔷 **Node.js & Express** — APIs REST com autenticação JWT
+- ☕ **Spring Boot** — injeção de dependência, JPA, Hibernate
+- 🗄️ **SQL avançado** — queries, joins, modelagem relacional
+- 🏗️ **Arquitetura de Software** — MVC, SOLID, Clean Code
+- 📦 **Boas práticas** — versionamento, testes, documentação
 
-- Desenvolvedor Full Stack Júnior
-- Desenvolvedor Back-end Júnior
-- Estágio em Desenvolvimento de Software
+---
+
+## 🎯 Oportunidades
+
+Estou aberto a:
+
+✅ Estágio em Desenvolvimento de Software  
+✅ Desenvolvedor Back-end Júnior  
+✅ Desenvolvedor Full Stack Júnior  
 
 ---
 
 ## 📫 Contato
 
-📧 terrysandref@gmail.com
+<div align="center">
 
-💼 [página do linkedin](https://www.linkedin.com/in/terrysdev/)
+[![Email](https://img.shields.io/badge/terrysandref@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:terrysandref@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-terrysdev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/terrysdev/)
+
+</div>
 
 ---
 
 <div align="center">
 
-### ⭐ Obrigado pela visita!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d9e75,100:0f6e56&height=100&section=footer" />
+
+*Obrigado pela visita! Se curtiu algum projeto, deixa uma ⭐*
 
 </div>
