@@ -71,8 +71,8 @@ Sou estudante de desenvolvimento de software focado em construir aplicações **
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=terrysdev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=c9d1d9" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrysdev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=terrysandre&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&icon_color=1d9e75&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terrysandre&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=1d9e75&text_color=c9d1d9" />
 
 </div>
 
